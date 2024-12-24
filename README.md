@@ -51,11 +51,11 @@ For complete information on using the Database API Generator [see Techdocs here]
 
 After defining the `profiles.json` file, open the Database Explorer panel in the Explorer sidebar, the first sidebar on the left.
 
-![showing open database explorer](./demo1.jpg)
+![showing open database explorer]([./demo1.jpg](https://raw.githubusercontent.com/BroadcomMFD/dbapi-generator/main/demo1.jpg))
 
 This view shows a cascading tree from Metadata Service -> Data Source (IDMS CV) -> Schema -> Tables -> Employee Table.
 
-![showing generate API option](./demo2.jpg)
+![showing generate API option](https://raw.githubusercontent.com/BroadcomMFD/dbapi-generator/main/demo2.jpg)
 
 Right click on a table to show this menu with an option to Generate API.
 You can also right click on a SQL view to generate an API endpoint.
