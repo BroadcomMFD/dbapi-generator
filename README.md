@@ -2,14 +2,17 @@
 
 ## Overview
 
+The Database API Generator automates the creation of REST APIs that access business data, so that developers can quickly and easily create new or integrate with existing web, mobile, or cloud-based applications.
+By providing a VS Code extension that helps developers use their existing skills, organizations can better leverage the mainframe to run their businesses and utilize existing business assets more quickly and effectively.
+
+> How can we improve Database API Generator? [Let us know on our Github repository](https://github.com/BroadcomMFD/dbapi-generator/issues)
+
 The Database API Generator VS Code extension generates Zowe conforming REST APIs to access database resources without writing any Java code.
 The extension provides a TreeView interface for you to discover the tables, views, and procedures for a JDBC enabled database,
 such as Datacom or IDMS, and generates the Java model, controller, and service classes to implement the API for the selected database objects.
 The Database API Generator extension uses the Database Metadata Service to discover the database objects.
 The Database API Generator is used with a Spring Boot project that provides the framework for the client application.
 You can create your own project or use the available Database API Sample project.
-
-> How can we improve Database API Generator? [Let us know on our Github repository](https://github.com/BroadcomMFD/dbapi-generator/issues)
 
 ## Licenses
 Before downloading this extension, review the [Broadcom License Agreement](https://techdocs.broadcom.com/us/en/ca-mainframe-software/database-management/ca-idms/19-0/release-notes/third-party-license-agreements-for-database-api-generator.html).
